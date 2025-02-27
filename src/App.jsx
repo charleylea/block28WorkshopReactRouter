@@ -14,6 +14,7 @@ function App() {
         <div id="navbar">
           <Link to="/red">Red</Link>
           <Link to="/blue">Blue</Link>
+          <Link to="/">Home</Link>
         </div>
         <div id="main-section">
           <Routes>
